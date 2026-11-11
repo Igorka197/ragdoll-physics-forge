@@ -1,0 +1,36 @@
+# Eclipse
+.classpath
+.project
+.settings/
+
+# IntelliJ IDEA
+.idea/
+*.iml
+*.ipr
+*.iws
+out/
+
+# VS Code
+.vscode/
+
+# Gradle & ForgeGradle
+.gradle/
+build/
+run/
+run-data/
+logs/
+crash-reports/
+
+# Native & Temporary Artifacts
+*.dll
+*.so
+*.dylib
+*.log
+*.tmp
+*.bak
+*.swp
+*~
+
+# OS Metadata
+.DS_Store
+Thumbs.db
